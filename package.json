@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "casual": "^1.6.2"
+    "casual": "^1.6.2",
+    "express": "^4.18.2"
   },
-  "name": "node",
+  "name": "express",
   "version": "1.0.0",
   "main": "app.js",
   "devDependencies": {
@@ -13,5 +14,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabinrijal03/node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prabinrijal03/node/issues"
+  },
+  "homepage": "https://github.com/prabinrijal03/node#readme",
   "description": ""
 }
